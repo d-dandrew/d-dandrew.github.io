@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on ddandrew&#39;s home site</title>
+    <link>https://d-dandrew.github.io/en/series/</link>
+    <description>Recent content in Series on ddandrew&#39;s home site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://d-dandrew.github.io/en/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://d-dandrew.github.io/en/series/blog/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://d-dandrew.github.io/en/series/development/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://d-dandrew.github.io/en/series/getting-started/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://d-dandrew.github.io/en/series/hugo/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rtfm</title>
+      <link>https://d-dandrew.github.io/en/series/rtfm/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/rtfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sci Fi</title>
+      <link>https://d-dandrew.github.io/en/series/sci-fi/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/sci-fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stfw</title>
+      <link>https://d-dandrew.github.io/en/series/stfw/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/stfw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>https://d-dandrew.github.io/en/series/theme/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/series/theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

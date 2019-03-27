@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on ddandrew&#39;s home site</title>
+    <link>https://d-dandrew.github.io/en/series/blog/</link>
+    <description>Recent content in Blog on ddandrew&#39;s home site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://d-dandrew.github.io/en/series/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>d_dandrew</title>
+      <link>https://d-dandrew.github.io/en/posts/ddandrew/</link>
+      <pubDate>Thu, 17 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/posts/ddandrew/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

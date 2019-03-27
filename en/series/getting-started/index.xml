@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting Started on ddandrew&#39;s home site</title>
+    <link>https://d-dandrew.github.io/en/series/getting-started/</link>
+    <description>Recent content in Getting Started on ddandrew&#39;s home site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://d-dandrew.github.io/en/series/getting-started/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bit Twiddling Hacks</title>
+      <link>https://d-dandrew.github.io/en/posts/bit-twiddling-hacks/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/posts/bit-twiddling-hacks/</guid>
+      <description>By Sean Eron Anderson seander@cs.stanford.edu
+Individually, the code snippets here are in the public domain (unless otherwise noted) — feel free to use them however you please. The aggregate collection and descriptions are © 1997-2005 Sean Eron Anderson. The code and descriptions are distributed in the hope that they will be useful, but WITHOUT ANY WARRANTY and without even the implied warranty of merchantability or fitness for a particular purpose.</description>
+    </item>
+    
+    <item>
+      <title>The Star</title>
+      <link>https://d-dandrew.github.io/en/posts/the-star/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/posts/the-star/</guid>
+      <description>Arthur C. Clarke It is three thousand light-years to the Vatican. Once, I believed that space could have no power over faith, just as I believed that the heavens declared the glory of God&amp;rsquo;s handiwork. Now I have seen that handiwork, and my faith is sorely troubled. I stare at the crucifix that hangs on the cabin above the Mark VI Computer, and for the first time in my life I wonder if it is no more than an empty symbol.</description>
+    </item>
+    
+    <item>
+      <title>How To Ask Questions The Smart Way</title>
+      <link>https://d-dandrew.github.io/en/posts/how-to-ask-questions-the-smart-ways/</link>
+      <pubDate>Wed, 21 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/posts/how-to-ask-questions-the-smart-ways/</guid>
+      <description>Eric Steven Raymond Thyrsus Enterprises
+&amp;lt;esr@thyrsus.com&amp;gt;
+Rick Moen &amp;lt;respond-auto@linuxmafia.com&amp;gt;
+Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
+   Revision History        Revision 3.10 21 May 2014 esr New section on Stack Overflow.   Revision 3.9 23 Apr 2013 esr URL fixes.   Revision 3.8 19 Jun 2012 esr URL fix.   Revision 3.7 06 Dec 2010 esr Helpful hints for ESL speakers.</description>
+    </item>
+    
+    <item>
+      <title>The Last Question</title>
+      <link>https://d-dandrew.github.io/en/posts/the-last-question/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/posts/the-last-question/</guid>
+      <description>The Last Question By Isaac Asimov Arthur Isaac Asimov
+This is by far my favorite story of all those I have written.
+After all, I undertook to tell several trillion years of human history in the space of a short story and I leave it to you as to how well I succeeded. I also undertook another task, but I won&#39;t tell you what that was lest l spoil the story for you.</description>
+    </item>
+    
+  </channel>
+</rss>

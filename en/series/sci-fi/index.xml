@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sci Fi on ddandrew&#39;s home site</title>
+    <link>https://d-dandrew.github.io/en/series/sci-fi/</link>
+    <description>Recent content in Sci Fi on ddandrew&#39;s home site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Oct 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://d-dandrew.github.io/en/series/sci-fi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Star</title>
+      <link>https://d-dandrew.github.io/en/posts/the-star/</link>
+      <pubDate>Wed, 04 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/posts/the-star/</guid>
+      <description>Arthur C. Clarke It is three thousand light-years to the Vatican. Once, I believed that space could have no power over faith, just as I believed that the heavens declared the glory of God&amp;rsquo;s handiwork. Now I have seen that handiwork, and my faith is sorely troubled. I stare at the crucifix that hangs on the cabin above the Mark VI Computer, and for the first time in my life I wonder if it is no more than an empty symbol.</description>
+    </item>
+    
+    <item>
+      <title>The Last Question</title>
+      <link>https://d-dandrew.github.io/en/posts/the-last-question/</link>
+      <pubDate>Fri, 24 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/en/posts/the-last-question/</guid>
+      <description>The Last Question By Isaac Asimov Arthur Isaac Asimov
+This is by far my favorite story of all those I have written.
+After all, I undertook to tell several trillion years of human history in the space of a short story and I leave it to you as to how well I succeeded. I also undertook another task, but I won&#39;t tell you what that was lest l spoil the story for you.</description>
+    </item>
+    
+  </channel>
+</rss>

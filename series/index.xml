@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on D_DAndrew 的主页</title>
+    <link>https://d-dandrew.github.io/series/</link>
+    <description>Recent content in Series on D_DAndrew 的主页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://d-dandrew.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Getting Started</title>
+      <link>https://d-dandrew.github.io/series/getting-started/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/series/getting-started/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rtfm</title>
+      <link>https://d-dandrew.github.io/series/rtfm/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/series/rtfm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sci Fi</title>
+      <link>https://d-dandrew.github.io/series/sci-fi/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/series/sci-fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stfw</title>
+      <link>https://d-dandrew.github.io/series/stfw/</link>
+      <pubDate>Sun, 25 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://d-dandrew.github.io/series/stfw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
