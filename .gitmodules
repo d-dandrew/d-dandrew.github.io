@@ -1,0 +1,4 @@
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/d-dandrew/hugo-coder.git
+	branch = ddandrew
