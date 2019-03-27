@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/posts/katex/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/posts/ddandrew/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/posts/bit-twiddling-hacks/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/posts/the-star/</loc>
+    <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/posts/how-to-ask-questions-the-smart-ways/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/posts/the-last-question/</loc>
+    <lastmod>2016-06-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/posts/the-last-question/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/posts/the-last-question/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/blog/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/development/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/getting-started/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/series/getting-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/series/getting-started/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/hugo/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/posts/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/projects/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/rtfm/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/series/rtfm/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/series/rtfm/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/sci-fi/</loc>
+    <lastmod>2017-10-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/series/sci-fi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/series/sci-fi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/</loc>
+    <lastmod>2019-01-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/stfw/</loc>
+    <lastmod>2017-06-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/series/stfw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/series/stfw/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/series/theme/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d-dandrew.github.io/en/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-hans"
+                href="https://d-dandrew.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://d-dandrew.github.io/en/"
+                />
+  </url>
+  
+</urlset>
